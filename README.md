@@ -14,7 +14,9 @@
 <a href="https://instagram.com/pfpictures" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pfpictures" height="30" width="30" /></a>
 <a href="https://www.behance.net/pierrebertier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="pierrebertier" height="30" width="30" /></a>
 </p>
+<br>
+<p align="center">
+  <img  src="https://pierre.bertier.pro/mirrors/bertiergif.gif">
+</p>
 
-
-![https://media.giphy.com/media/WiM5K1e9MtEic/source.gif](https://media.giphy.com/media/WiM5K1e9MtEic/source.gif)
 
