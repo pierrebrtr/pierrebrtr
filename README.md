@@ -7,7 +7,7 @@
 </div>  
   
 
-- 🔭 I’m currently working at [Murfy](https://www.murfy.fr)  
+- 🔭 Previously working at [Murfy](https://www.murfy.fr)  
   
 
 - 🌱  I’m currently learning **React & Django**  
