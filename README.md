@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Pierre,  a young, curious, enthousiast creator, student at ESEO, a french 🐔 engineering school
+### <div align="center">I'm Pierre,  a young, curious, enthousiast engineer
 </div>  
   
 
-- 🔭 Previously working at [Murfy](https://www.murfy.fr)  
+- 🔭 Currently working at [Acuitis](https://www.acuitis.com)  
   
 
-- 🌱  I’m currently learning **React & Django**  
+- 🌱  I’m currently working with **NextJs** <3  
   
 
 - 👨‍💻 All of my projects are available at [https://www.pierre.bertier.pro](https://www.pierre.bertier.pro)  
