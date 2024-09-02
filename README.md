@@ -13,7 +13,7 @@
 - 🌱  I’m currently working with **NextJs** <3  
   
 
-- 👨‍💻 All of my projects are available at [https://www.pierre.bertier.pro](https://www.pierre.bertier.pro)  
+- 👨‍💻 All of my projects are available at [https://pierre.bertier.pro](https://pierre.bertier.pro)  
   
 
 - 📫 How to reach me **pierre@bertier.pro**  
