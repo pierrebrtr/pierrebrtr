@@ -7,7 +7,7 @@
 </div>  
   
 
-- 🔭 Currently working at [Acuitis](https://www.acuitis.com)  
+- 🔭 Currently working at [Shotgun](https://shotgun.live/fr)  
   
 
 - 🌱  I’m currently working with **NextJs** <3  
