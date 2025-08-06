@@ -14,10 +14,7 @@
   
 
 - 👨‍💻 All of my projects are available at [https://pierre.bertier.pro](https://pierre.bertier.pro)  
-  
-
-- 📫 How to reach me **pierre@bertier.pro**  
-  
+    
 
 <br/>  
 
